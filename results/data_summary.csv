@@ -1,0 +1,4 @@
+base,segmento,observaciones,variables_archivo,variables_analiticas,faltantes_totales,duplicados,formato_repo
+properati.csv,Argentina - base original,1000000,25,24,,,12 partes binarias de properati.csv.zip
+df3_limpio.csv,Puerto Madero - checkpoint limpio entregado,1035,19,19,0,0,CSV
+df4_limpio.csv.gz,Resto de CABA - checkpoint limpio entregado,59991,19,19,0,0,CSV comprimido con gzip

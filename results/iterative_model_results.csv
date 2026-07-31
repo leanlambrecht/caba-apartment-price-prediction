@@ -1,0 +1,19 @@
+modelo,cambio_acumulado,observaciones,rmse
+1,Línea de base con variables numéricas y faltantes reemplazados por cero,257546,899118.2113
+2,Depuración e imputación de barrio (l3),236253,876814.3182
+3,Imputación de coordenadas y control geográfico de CABA,232907,918927.6492
+4,"Conversión y depuración de precio, moneda, fecha y título",225152,406063.305
+5,"Selección de Casa, Departamento y PH",170450,236118.5133
+6,Selección del tipo de operación analizado,83791,87116.7263
+7,Tratamiento de ambientes,83791,87116.7263
+8,Tratamiento de dormitorios,81372,119206.6262
+9,Tratamiento de baños,81141,162935.6568
+10,Imputación de superficie total,81141,163215.3421
+11,Imputación de superficie cubierta,81141,162479.7131
+12,Depuración de superficies en el resto de CABA,74742,122640.9
+13,Consistencia entre dormitorios y baños,73868,89203.0827
+14,Rango de precios y precio por metro cuadrado,70696,27412.0705
+15,Tratamiento de outliers con precio de referencia por barrio,49021,17203.5851
+16,Línea de base específica de Puerto Madero,1151,228366.4404
+17,Tratamiento específico de outliers de Puerto Madero,552,71969.1663
+18,Variables dummy de barrio en el resto de CABA,49021,17203.5851
